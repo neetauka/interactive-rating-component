@@ -182,6 +182,11 @@ body {
   padding-top:12px;
 
  }
+ #header2{
+  color:var(--White);
+  font-family:'Overpass Bold';
+  font-size: 33px;
+}
  .modal-overlay{
   text-align: center;
 }
